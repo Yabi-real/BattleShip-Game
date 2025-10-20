@@ -1,0 +1,5 @@
+/Users/yabsraalemu/Downloads/<Uccs battleShip>/BattleShip
+/Users/yabsraalemu/Downloads/<Uccs battleShip>/BattleShip.dll
+/Users/yabsraalemu/Downloads/<Uccs battleShip>/BattleShip.deps.json
+/Users/yabsraalemu/Downloads/<Uccs battleShip>/BattleShip.runtimeconfig.json
+/Users/yabsraalemu/Downloads/<Uccs battleShip>/BattleShip.pdb

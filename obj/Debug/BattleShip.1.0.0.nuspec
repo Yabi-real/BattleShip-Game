@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BattleShip</id>
+    <version>1.0.0</version>
+    <authors>BattleShip</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/yabsraalemu/Desktop/BattleShip/bin/Debug/net7.0/BattleShip.runtimeconfig.json" target="lib/net7.0/BattleShip.runtimeconfig.json" />
+    <file src="/Users/yabsraalemu/Desktop/BattleShip/bin/Debug/net7.0/BattleShip.dll" target="lib/net7.0/BattleShip.dll" />
+  </files>
+</package>

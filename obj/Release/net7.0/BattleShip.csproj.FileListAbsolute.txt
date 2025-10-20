@@ -1,0 +1,15 @@
+/Users/yabsraalemu/Desktop/BattleShip/bin/Release/net7.0/BattleShip
+/Users/yabsraalemu/Desktop/BattleShip/bin/Release/net7.0/BattleShip.deps.json
+/Users/yabsraalemu/Desktop/BattleShip/bin/Release/net7.0/BattleShip.runtimeconfig.json
+/Users/yabsraalemu/Desktop/BattleShip/bin/Release/net7.0/BattleShip.dll
+/Users/yabsraalemu/Desktop/BattleShip/bin/Release/net7.0/BattleShip.pdb
+/Users/yabsraalemu/Desktop/BattleShip/obj/Release/net7.0/BattleShip.csproj.AssemblyReference.cache
+/Users/yabsraalemu/Desktop/BattleShip/obj/Release/net7.0/BattleShip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yabsraalemu/Desktop/BattleShip/obj/Release/net7.0/BattleShip.AssemblyInfoInputs.cache
+/Users/yabsraalemu/Desktop/BattleShip/obj/Release/net7.0/BattleShip.AssemblyInfo.cs
+/Users/yabsraalemu/Desktop/BattleShip/obj/Release/net7.0/BattleShip.csproj.CoreCompileInputs.cache
+/Users/yabsraalemu/Desktop/BattleShip/obj/Release/net7.0/BattleShip.dll
+/Users/yabsraalemu/Desktop/BattleShip/obj/Release/net7.0/refint/BattleShip.dll
+/Users/yabsraalemu/Desktop/BattleShip/obj/Release/net7.0/BattleShip.pdb
+/Users/yabsraalemu/Desktop/BattleShip/obj/Release/net7.0/BattleShip.genruntimeconfig.cache
+/Users/yabsraalemu/Desktop/BattleShip/obj/Release/net7.0/ref/BattleShip.dll

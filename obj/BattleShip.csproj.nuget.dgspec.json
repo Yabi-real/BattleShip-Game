@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yabsraalemu/Downloads/BattleShip/BattleShip.csproj": {}
+  },
+  "projects": {
+    "/Users/yabsraalemu/Downloads/BattleShip/BattleShip.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yabsraalemu/Downloads/BattleShip/BattleShip.csproj",
+        "projectName": "BattleShip",
+        "projectPath": "/Users/yabsraalemu/Downloads/BattleShip/BattleShip.csproj",
+        "packagesPath": "/Users/yabsraalemu/.nuget/packages/",
+        "outputPath": "/Users/yabsraalemu/Downloads/BattleShip/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yabsraalemu/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
